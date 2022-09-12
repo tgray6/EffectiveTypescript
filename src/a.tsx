@@ -1,0 +1,3 @@
+let coolguy = "tyler";
+
+export {}
