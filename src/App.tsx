@@ -7,24 +7,6 @@ import React from 'react';
 
 
 
-type TimeRange = {
-  start: Date;
-};
-
-const hasStartString: TimeRange = {
-  start: new Date("10/30/1985")
-};
-
-console.log(hasStartString);
-
-
-
-
-
-
-
-
-
 
 
 
